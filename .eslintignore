@@ -1,0 +1,7 @@
+/build/
+/config/
+/dist/
+build/*.js
+config/*.js
+/*.js
+/src/tools/md5.js

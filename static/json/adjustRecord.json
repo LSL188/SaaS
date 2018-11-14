@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "msg": "ok",
+  "data": {
+    "total_page": 113,
+    "current_page": 1,
+    "page_size": 10,
+    "history_list": [
+        {
+            "id" : 1,
+            "portfolio_name" : "GomePort_180503_risk8",
+            "rebalance_date" : "2018-06-25",
+            "rebalance_log":[
+                {
+                    "ticker":"000001.OF",
+                    "fund_name":"华夏成长",
+                    "from":10.01,
+                    "to":12.03,
+                    "opt_type":"u"
+                }
+            ]
+        },
+        {
+            "id" : 1,
+            "portfolio_name" : "GomePort_180503_risk8",
+            "rebalance_date" : "2018-06-25",
+            "rebalance_log":[
+                {
+                    "ticker":"000001.OF",
+                    "fund_name":"华夏成长",
+                    "from":10.01,
+                    "to":12.03,
+                    "opt_type":"u"
+                }
+            ]
+        },
+        {
+            "id" : 1,
+            "portfolio_name" : "GomePort_180503_risk8",
+            "rebalance_date" : "2018-06-25",
+            "rebalance_log":[
+                {
+                    "ticker":"000001.OF",
+                    "fund_name":"华夏成长",
+                    "from":10.01,
+                    "to":12.03,
+                    "opt_type":"u"
+                }
+            ]
+        },
+        {
+            "id" : 1,
+            "portfolio_name" : "GomePort_180503_risk8",
+            "rebalance_date" : "2018-06-25",
+            "rebalance_log":[
+                {
+                    "ticker":"000001.OF",
+                    "fund_name":"华夏成长",
+                    "from":10.01,
+                    "to":12.03,
+                    "opt_type":"u"
+                }
+            ]
+        }
+    ]
+  }
+}

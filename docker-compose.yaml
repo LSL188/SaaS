@@ -1,0 +1,21 @@
+version: '2'
+services:
+  saas-frontend:
+    container_name: saas-frontend
+    restart: always
+    image: node:10.8-stretch
+    volumes:
+      - ../saas-frontend/:/code
+    command: bash
+    tty: true
+    stdin_open: true
+
+  saas-frontend-nginx:
+    container_name: saas-frontend-nginx
+    image: nginx
+    restart: always
+    ports:
+      - "30099:8080"
+    volumes:
+      - ./dist:/usr/share/nginx/html
+      - ./compose.nginx.conf:/etc/nginx/conf.d/default.conf

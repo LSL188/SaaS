@@ -1,0 +1,17 @@
+{
+    "code":200,
+    "msg":"ok",
+    "time":"2017-01-01",
+    "data":{
+        "return_3m":7.30,
+        "return_6m":7.30,
+        "return_1y":7.30,
+        "return_3y":-0.30,
+        "volatility_3m":6.20,
+        "volatility_6m":6.20,
+        "volatility_1y":6.20,
+        "volatility_3y":6.20,
+        "month_facet":1,
+        "risk_level":6
+    }
+}

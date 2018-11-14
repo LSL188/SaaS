@@ -1,0 +1,49 @@
+{
+    "code":200,
+    "msg":"ok",
+    "data": {
+        "daily_portfolio": [
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "私心肯定",
+                "proportion" : 13
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "防守打法",
+                "proportion" : 35
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "23晚上的",
+                "proportion" : 11
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "就很头疼",
+                "proportion" : 3
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "市第五次",
+                "proportion" : 9
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "斤斤计较",
+                "proportion" : 20
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "维吾尔个",
+                "proportion" : 5
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "公司散热",
+                "proportion" : 4
+            }
+        ],
+        "risk_level": 8
+    } 
+}

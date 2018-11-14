@@ -1,0 +1,191 @@
+{
+    "code":200,
+    "msg":"ok",
+    "create_date":"2017-01-01",
+    "last_rebalance_date":"2018-11-26",
+    "data":{
+        "history_line":[
+            {
+                "deal_time":"2018-07-12",
+                "x":1.07,
+                "y":37.21
+            },
+            {
+                "deal_time":"2018-07-13",
+                "x":1.9,
+                "y":36.21
+            }, 
+            {
+                "deal_time":"2018-07-14",
+                "x":4,
+                "y":35.21
+            },
+            {
+                "deal_time":"2018-07-15",
+                "x":7.8,
+                "y":30.21
+            },    
+            {
+                "deal_time":"2018-07-17",
+                "x":12.2,
+                "y":37.21
+            },    
+            {
+                "deal_time":"2018-07-18",
+                "x":9.07,
+                "y":27.21
+            },    
+            {
+                "deal_time":"2018-07-19",
+                "x":5.07,
+                "y":17.21
+            },    
+            {
+                "deal_time":"2018-07-20",
+                "x":21.07,
+                "y":22
+            },    
+            {
+                "deal_time":"2018-07-21",
+                "x":19.07,
+                "y":25.21
+            },    
+            {
+                "deal_time":"2018-07-22",
+                "x":15.07,
+                "y":20.21
+            },    
+            {
+                "deal_time":"2018-07-23",
+                "x":8.07,
+                "y":33.21
+            },    
+            {
+                "deal_time":"2018-07-24",
+                "x":12.07,
+                "y":47.21
+            },
+            {
+                "deal_time":"2018-07-25",
+                "x":10.07,
+                "y":10.21
+            }
+        ],
+        "return": {
+            "return_today":11.3,
+            "return_all_time":11.3,
+            "return_3m":7.30,
+            "return_6m":7.30,
+            "return_1y":7.30,
+            "return_3y":-0.30,
+            "volatility_all_time":6.20,
+            "volatility_3m":6.20,
+            "volatility_6m":6.20,
+            "volatility_1y":6.20,
+            "volatility_3y":6.20
+        },
+        "portfolio_detail": [
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "私心肯定",
+                "proportion" : 13
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "防守打法",
+                "proportion" : 35
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "23晚上的",
+                "proportion" : 11
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "就很头疼",
+                "proportion" : 3
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "市第五次",
+                "proportion" : 9
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "斤斤计较",
+                "proportion" : 20
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "维吾尔个",
+                "proportion" : 5
+            },
+            {
+                "ticker" : "000001.OF",
+                "fund_name" : "公司散热",
+                "proportion" : 4
+            }
+        ],
+        "rebalance_detail": [
+            {
+                "id" : 1,
+                "portfolio_name" : "GomePort_180503_risk8",
+                "rebalance_date" : "2018-06-25",
+                "rebalance_log":[
+                    {
+                        "ticker":"000001.OF",
+                        "fund_name":"华夏成长",
+                        "from":10.01,
+                        "to":12.03,
+                        "opt_type":"u"
+                    }
+                ]
+            },
+            {
+                "id" : 1,
+                "portfolio_name" : "GomePort_180503_risk8",
+                "rebalance_date" : "2018-06-25",
+                "rebalance_log":[
+                    {
+                        "ticker":"000001.OF",
+                        "fund_name":"华夏成长",
+                        "from":10.01,
+                        "to":12.03,
+                        "opt_type":"u"
+                    }
+                ]
+            },
+            {
+                "id" : 1,
+                "portfolio_name" : "GomePort_180503_risk8",
+                "rebalance_date" : "2018-06-25",
+                "rebalance_log":[
+                    {
+                        "ticker":"000001.OF",
+                        "fund_name":"华夏成长",
+                        "from":10.01,
+                        "to":12.03,
+                        "opt_type":"u"
+                    }
+                ]
+            },
+            {
+                "id" : 1,
+                "portfolio_name" : "GomePort_180503_risk8",
+                "rebalance_date" : "2018-06-25",
+                "rebalance_log":[
+                    {
+                        "ticker":"000001.OF",
+                        "fund_name":"华夏成长",
+                        "from":10.01,
+                        "to":12.03,
+                        "opt_type":"u"
+                    }
+                ]
+            }
+        ],
+        "portfolio_name":"GomePort_180503_Risk8",
+        "month_facet":1,
+        "risk_level":6
+    }
+}
